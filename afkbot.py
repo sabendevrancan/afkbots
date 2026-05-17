@@ -35,8 +35,8 @@ TOKEN_GUIDE_CHANNEL_ID = 1483321231011741778 # <-- TOKEN EKLENMEMİŞ YÖNLENDIR
 MAX_TOKENS_PER_USER = 20 # Kullanıcı başına maksimum token sayısı
 # 👑 YETKİLİ KULLANICILAR - SADECE BU ID'LER .tokenadd KULLANABİLİR
 AUTHORIZED_USERS = [
-    1196780375230394466, # <-- 1. Yetkili kullanıcı ID
-    606453556882571275 # <-- 2. Yetkili kullanıcı ID
+    359199132906422273, # <-- 1. Yetkili kullanıcı ID
+    1196780375230394466 # <-- 2. Yetkili kullanıcı ID
 ]
 
 # ═══════════════════════════════════════════════════════════════
